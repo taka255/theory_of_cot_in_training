@@ -1,6 +1,6 @@
 # Reproduction code
 
-This directory reproduces Figure 1B and the softmax panel of Figure 2 from scratch.
+This directory reproduces some results from scratch.
 Each script runs the numerical experiments, aggregates the results, and draws the figure.
 
 ## Usage
